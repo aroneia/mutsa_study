@@ -11,6 +11,7 @@ HashMap<String,Integer> cl = new HashMap<String,Integer>();
 
 
 2주차 정렬
+프로그래머스 가장큰수랑 h-index 궁금증 미해결
 Arrays.sort() / compareable, comparator 정리 확실히 하기
 - https://ifuwanna.tistory.com/232
-프로그래머스 가장큰수랑 h-index 궁금증 미해결
+
