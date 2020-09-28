@@ -13,4 +13,4 @@
 2주차 정렬
 - 프로그래머스 가장큰수랑 h-index 궁금증 미해결
 - Arrays.sort() / compareable, comparator 정리 확실히 하기   >>https://ifuwanna.tistory.com/232
-
+- hashset의 특징: 순서가 없고, 중복을 허용하지 않는다. 메소드: equals(), hashCode(), removeAll() 
